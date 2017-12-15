@@ -78,6 +78,8 @@ Table of Contents
 Features
 --------
 
+- **Added By SamuelAyo, react scafolding with code splitting and protected route**
+
 - **Local Authentication** using Email and Password
 - **OAuth 1.0a Authentication** via Twitter
 - **OAuth 2.0 Authentication** via Facebook, Google, GitHub, LinkedIn, Instagram
